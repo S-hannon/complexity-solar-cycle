@@ -1,0 +1,10 @@
+code,C:\Users\shann\OneDrive\Documents\Research\Workspace\Code\protect_our_planet_from_solar_storms,
+figures,C:\Users\shann\OneDrive\Documents\Research\Workspace\Plots,
+data,C:\Users\shann\OneDrive\Documents\Research\Workspace\Data,
+classifications,C:\Users\shann\OneDrive\Documents\Research\Workspace\Data\protect-our-planet-from-solar-storms-classifications.csv,
+subjects,C:\Users\shann\OneDrive\Documents\Research\Workspace\Data\protect-our-planet-from-solar-storms-subjects.csv,
+comp_times,C:\Users\shann\OneDrive\Documents\Research\Workspace\Data\HELCATS_mid_times.csv,
+out_data,C:\Users\shann\OneDrive\Documents\Research\Workspace,
+sunspots,C:\Users\shann\OneDrive\Documents\Research\Workspace\Data\SN_d_tot_V2.0.csv,
+hi_data,E:\STEREO\ares.nrl.navy.mil\lz,
+hi_data2, F:
